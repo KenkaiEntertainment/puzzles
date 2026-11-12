@@ -1,0 +1,15 @@
+{
+  "label": "Humpty Dumpty",
+  "answers": ["humpty dumpty", "humpty"],
+  "image": "puzzle111226.jpg",
+  "pairs": [
+    ["Lewis Carroll", "Alice in Wonderland"],
+    ["John Steinbeck", "East of Eden"],
+    ["William Peter Blatty", "The Exorcist"],
+    ["Patrick Süskind", "Perfume: Story of a Murderer"],
+    ["Agatha Christie", "And Then There Were None"],
+    ["Bret Easton Ellis", "Imperial Bedrooms"],
+    ["Danny Sugerman", "Wonderland Avenue"],
+    ["F. Scott Fitzgerald", "This Side of Paradise"]
+  ]
+}
