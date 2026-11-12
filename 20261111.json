@@ -1,0 +1,15 @@
+{
+  "label": "The Jester",
+  "answers": ["thejester", "jester"],
+  "image": "",
+  "pairs": [
+    ["🇰🇬", "Kyrgyzstan"],
+    ["🇫🇷", "France"],
+    ["🇬🇷", "Greece"],
+    ["🇩🇪", "Germany"],
+    ["🇧🇹", "Bhutan"],
+    ["🇳🇵", "Nepal"],
+    ["🇪🇸", "Spain"],
+    ["🇸🇪", "Sweden"]
+  ]
+}
