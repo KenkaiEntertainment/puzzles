@@ -1,7 +1,7 @@
 {
   "label": "Hands Cover Face",
   "answers": ["hands cover face", "face"],
-  "image": "",
+  "image": "puzzle1.jpg",
   "pairs": [
     ["🇰🇬", "Kyrgyzstan"],
     ["🇫🇷", "France"],
