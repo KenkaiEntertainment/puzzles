@@ -1,0 +1,15 @@
+{
+  "label": "Friday the 13th",
+  "answers": ["friday the 13th", "friday 13th", "friday the thirteenth", "friday thirteenth", "friday the 13", "friday 13"],
+  "image": "friday13.jpg",
+  "pairs": [
+    ["Full moon", "Werewolf"],
+    ["Owl hooting", "Bad news coming"],
+    ["Black cat crossing", "Bad omen"],
+    ["Broken mirror", "7 years of bad luck"],
+    ["Ouija board", "Talking to the dead"],
+    ["Fear of the number 13", "Triskaidekaphobia"],
+    ["Hockey mask", "Jason Voorhees"],
+    ["Camp Crystal Lake", "Where Jason drowned"]
+  ]
+}
