@@ -1,7 +1,7 @@
 {
   "label": "Friday the 13th",
   "answers": ["friday the 13th", "friday 13th", "friday the thirteenth", "friday thirteenth", "friday the 13", "friday 13"],
-  "image": "puzzle111326.png",
+  "image": "puzzle111326.PNG",
   "pairs": [
     ["Full moon", "Werewolf"],
     ["Owl hooting", "Bad news coming"],
